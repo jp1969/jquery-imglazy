@@ -63,7 +63,7 @@
         //图片加载的处理函数
         function loadImg()
         {
-            console.info("loadImg start!");
+            // console.info("loadImg start!");
             var i = 0,
                 len = elements.length,
                 scrollTop = $win.scrollTop(),
